@@ -19,3 +19,4 @@ for (i = 0; i < list.length; i++){
 	}
 }
 setBatchMode(false);
+exit("Converting completed!");
